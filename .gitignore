@@ -1,0 +1,4 @@
+*.jou
+*.log
+.Xil/
+vga_sync_gen/
